@@ -1,4 +1,7 @@
-# Mixto: A simple mixin superclass [![Build Status](https://travis-ci.org/atom/mixto.png?branch=master)](https://travis-ci.org/atom/mixto)
+# Mixto: A simple mixin superclass [![Build Status](https://travis-ci.org/aminya/mixto.png?branch=master)](https://travis-ci.org/aminya/mixto)
+```
+npm install @aminya/mixto
+```
 
 # JavaScript Classes (ES6)
 

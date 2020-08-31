@@ -1,5 +1,5 @@
 {
-  "name": "mixto",
+  "name": "@aminya/mixto",
   "version": "1.0.0-aminya.1",
   "description": "A mixin superclass. Its subclasses have `.extend` and `.includeInto` methods to mix behavior into other objects and classes.",
   "main": "lib/mixin",
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/mixto"
+    "url": "https://github.com/aminya/mixto"
   },
   "keywords": [
     "mixin",
     "trait"
   ],
   "bugs": {
-    "url": "https://github.com/atom/mixto/issues"
+    "url": "https://github.com/aminya/mixto/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/atom/mixto/raw/master/LICENSE.md"
+      "url": "http://github.com/aminya/mixto/raw/master/LICENSE.md"
     }
   ],
   "devDependencies": {
